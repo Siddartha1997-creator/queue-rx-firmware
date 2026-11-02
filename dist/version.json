@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "device": "Waveshare ESP32-S3-ePaper-3.97",
+  "flash_size": "16MB",
+  "bin_file": "firmware.bin",
+  "firmware_sha256": "6d192bcef1101f31950930c029cc5e0e2bddcce42d2ead7db5038000098a3c29",
+  "factory_bin_file": "factory_firmware_16MB.bin",
+  "factory_sha256": "cc794ba12498beeb567f72da693947ac71d2afb3bcd77f60f7cbc1c5077238c5",
+  "release_url": "https://github.com/Siddartha1997-creator/queue-rx-firmware/releases/latest",
+  "created_at": "2026-11-02T20:57:51.574065+00:00"
+}
