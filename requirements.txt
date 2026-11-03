@@ -1,0 +1,6 @@
+# QueueRX Firmware Tooling & Production Flashing Dependencies
+esptool>=4.7.0
+pyserial>=3.5
+intelhex>=2.3.0
+cryptography>=41.0.0
+platformio>=6.1.16
